@@ -1,0 +1,14 @@
+
+.searcher-container {
+    min-width: 100%;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .searcher-input {
+    width: 100%; 
+    padding: 10px;
+    font-size: 16px; 
+  }
+
+  
